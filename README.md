@@ -1,5 +1,7 @@
 # Automatrix - PDF Highlight Extraction and Automation
 
+![automatrix](https://github.com/user-attachments/assets/4d975e07-1bfc-4b58-bdfb-628539ed4d37)
+
 Automatrix is a Python script that extracts highlighted text from PDF documents and automates typing those extracted texts into other applications using PyAutoGUI. It identifies areas highlighted in yellow and processes them for automation tasks. The script is especially useful for automating data entry based on highlighted sections in PDFs.
 
 ### Features:
